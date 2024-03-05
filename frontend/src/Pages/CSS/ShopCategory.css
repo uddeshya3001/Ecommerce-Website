@@ -22,16 +22,10 @@
 }
 
 .shopcategory-products {
-
+    margin: 20px 170px;
     display: grid;
-    margin: auto;
-    margin: 10px 170px;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     row-gap: 80px;
-    width: 100%;
-    overflow: hidden;
-    height: auto;
-
 
 }
 
